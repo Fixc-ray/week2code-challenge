@@ -57,7 +57,7 @@ This project was contributed to by:
 - [Justin Ray](https://github.com/Fixc-ray)
 
 ### Interactive Shopping List reference 
-``````
+```https://fixc-ray.github.io/week2code-challenge/```
 
 ## License
 
